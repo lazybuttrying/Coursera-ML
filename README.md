@@ -47,12 +47,7 @@ Instructor : Andrew Ng
 - Word Embedding
 - HuggingFace tokenizers, Transformer model로 NLP 문제 해결하기 
 
-
-
-
-
-
-
+# 
 # Reference
 
 
