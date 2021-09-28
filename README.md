@@ -48,10 +48,10 @@ Instructor : Andrew Ng
 - HuggingFace tokenizers, Transformer model로 NLP 문제 해결하기 
 
 # 
+# 
 # Reference
 
-
-
+##
 ## Neural Networks and Deep Learning
 ### Week 2:
 - Implementing a Neural Network from Scratch in Python – An Introduction (Denny Britz, 2015)
@@ -70,7 +70,7 @@ Instructor : Andrew Ng
   -  https://stackoverflow.com/questions/1907993/autoreload-of-modules-in-ipython
 
 
-
+##
 ## Improving Deep Neural Networks
 ## Hyperparamter Tuning, Regularization and Optimization
 ### Week 3:
@@ -80,7 +80,7 @@ Instructor : Andrew Ng
   - https://www.tensorflow.org/api_docs/python/tf/GradientTape
 
 
-
+## 
 ## Convolutional Neural Networks
 ### Week 1:
 - The Sequential model (TensorFlow Documentation)
@@ -140,9 +140,8 @@ Instructor : Andrew Ng
 
 
 
-
+## 
 ## Sequence Models
-
 ### Week 1
 - Minimal character-level language model with a Vanilla Recurrent Neural Network, in Python/numpy (GitHub: karpathy)
   - https://gist.github.com/karpathy/d4dee566867f8291f086
@@ -168,6 +167,6 @@ Instructor : Andrew Ng
 ### Week 4
 - Natural Language Processing Specialization (by DeepLearning.AI)
   - https://www.coursera.org/specializations/natural-language-processing?
-Attention Is All You Need (Vaswani, Shazeer, Parmar, Uszkoreit, Jones, Gomez, Kaiser​ & Polosukhin, 2017)
+- Attention Is All You Need (Vaswani, Shazeer, Parmar, Uszkoreit, Jones, Gomez, Kaiser​ & Polosukhin, 2017)
   - https://arxiv.org/abs/1706.03762
 
